@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Tunde Balogun
-- 👀 I’m interested in Voice Automation in African Languages ...
-- 🌱 I’m currently learning Yoruba Hausa Igbo
-- 💞️ I’m looking to collaborate on Language Technologies for African Languages
-- 📫 How to reach me tunde.balogun@octasis.com
+- 👋 Octasis is the foremost provider of Voice Automation solutions in Africa 
+- 👀 We have currated a large database of African Languages ...
+- 🌱 We are currently working E-forms completion using voice automation in Yoruba Hausa Igbo
+- 💞️ We are looking to collaborate on Language Technologies for African Languages
+- 📫 You reach us on info@octasis.com
 
 <!---
 Octasis1/Octasis1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
